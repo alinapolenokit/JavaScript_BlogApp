@@ -1,0 +1,42 @@
+.post-title-input {
+    display: block;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    width: 300px;
+    height: 30px;
+}
+
+.post-text-input {
+    display: block;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    width: 300px;
+    height: 180px;
+}
+
+.new-post-btn {
+    width: 300px;
+    height: 30px;
+    box-sizing: border-box;
+    color: #ffffff;
+    background-color: #0094FF;
+}
+
+.row {
+    font-family: 'Manrope';
+    display: flex;
+    gap: 120px;
+}
+
+.post__date {
+    color: blue;
+}
+
+.limitationMessage {
+    margin-top: 10px;
+    color: red;
+}
+
+.limitationMessage_hidden {
+    display: none;
+}
